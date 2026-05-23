@@ -1,0 +1,116 @@
+aid: cdi-corp
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/cdi-corp/refs/heads/main/apis.yml
+name: CDI Corp
+tags:
+  - Engineering Services
+  - Technical Staffing
+  - Energy
+  - Chemicals
+  - Project Services
+  - Private Equity Portfolio
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+common:
+  - type: Website
+    url: https://www.cdiengineeringsolutions.com/
+  - type: LegacyWebsite
+    url: https://www.cdicorp.com/
+  - type: Careers
+    url: https://www.cdiengineeringsolutions.com/careers/
+  - type: Contact
+    url: https://www.cdiengineeringsolutions.com/contact/
+  - type: ParentCompany
+    url: https://www.tce.co.in/
+  - type: PreviousOwner
+    url: https://www.aeroequity.com/investment/cdi-corp/
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/CDI_Corporation
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cdi-engineering---oil-gas-&-chemicals
+  - type: Features
+    data:
+      - name: Integrated Engineering Services
+        description: Process, mechanical, civil, structural, electrical, instrumentation, and control engineering across the project lifecycle.
+      - name: Project Support and Procurement
+        description: Project management, procurement, and construction management for capital projects in energy and chemicals.
+      - name: Technical Resourcing
+        description: Short and long-term staff augmentation of skilled engineering and technical professionals for capital project requirements.
+      - name: Multidisciplinary Delivery Centers
+        description: Ten engineering centers delivering downstream and midstream oil and gas, petrochemicals, and infrastructure projects.
+      - name: Sustainability Engineering
+        description: Engineering for battery chemicals, green ammonia, biofuels, advanced recycling, and renewable energy programs.
+      - name: Marine and Drone Services
+        description: Marine engineering plus drone-based inspection and survey services supporting industrial clients.
+  - type: UseCases
+    data:
+      - name: Refinery and Petrochemical EPC
+        description: Engineering, design, and project services for downstream refining and petrochemical facility owners and operators.
+      - name: Capital Project Staff Augmentation
+        description: Provision of contract and contract-to-hire engineering and technical talent to fill capital project teams.
+      - name: Sustainable Process Engineering
+        description: Process and detailed engineering for low-carbon, biofuels, and advanced recycling production facilities.
+      - name: Operating Plant Modernization
+        description: Brownfield engineering, debottlenecking, and unit revamps for existing process industry assets.
+  - type: Integrations
+    data:
+      - name: Tata Consulting Engineers Global Network
+        description: Integration with TCE's 65+ country delivery network as a wholly owned subsidiary trading as Tata Consulting Engineers USA, LLC.
+      - name: Owner-Operator Engineering Frameworks
+        description: Long-term framework agreements with energy and chemicals owner-operators across North America.
+  - type: CorporateHistory
+    data:
+      - name: Founded 1950
+        description: Founded in Philadelphia in 1950 as Comprehensive Designers, Inc., providing temporary technical services to manufacturing.
+      - name: Renamed CDI Corporation 1973
+        description: Comprehensive Designers, Inc. changed its name to CDI Corporation in 1973 after diversifying into job placement via Management Recruiters International (1972).
+      - name: NYSE Listing 1988
+        description: CDI went public on the New York Stock Exchange in 1988 under ticker CDI.
+      - name: Billion-Dollar Revenue 1994
+        description: By the end of 1994 the company reported over $1 billion in revenue across three core business areas with approximately 3,000 customers.
+      - name: CDI Engineering Solutions Formed 1996
+        description: CDI Engineering Solutions formed in 1996 through acquisitions of Stubbs, Overbeck & Associates and AWARE Engineering.
+      - name: L.R. Kimball Acquisition 2010
+        description: CDI acquired L. Robert Kimball & Associates, Inc., a 550-person professional services firm, for architecture and engineering services.
+      - name: Taken Private by AE Industrial Partners 2017
+        description: In September 2017 AE Industrial Partners acquired CDI Corp via a cash tender offer at $8.25 per share, taking the company private and delisting from NYSE.
+      - name: Belcan Divestiture 2017
+        description: In December 2017 Belcan Inc., an AE Industrial Partners platform company, acquired CDI's Aerospace and Industrial Equipment business line.
+      - name: Artech Divestiture 2018
+        description: In October 2018 Artech Information Systems acquired CDI's Talent and Technology Solutions business unit.
+      - name: Gryphon Combination 2018
+        description: In September 2018 AE Industrial Partners acquired Gryphon Technologies and combined it with CDI Government Services.
+      - name: TranSystems Divestiture 2021
+        description: In May 2021 TranSystems acquired L.R. Kimball, the architecture and engineering services subsidiary CDI had acquired in 2010.
+      - name: Houston Headquarters 2022
+        description: CDI relocated its headquarters to Houston, Texas in February 2022 reflecting its post-restructuring focus on energy and chemicals engineering.
+      - name: AE Industrial Partners Exit December 2024
+        description: AE Industrial Partners realized its CDI Corp investment in December 2024 with the sale of CDI Engineering Solutions to Tata Consulting Engineers.
+      - name: Tata Consulting Engineers Acquisition January 2025
+        description: On January 1, 2025, CDI Engineering Solutions, LLC became a wholly owned subsidiary of Tata Consulting Engineers, now operating as Tata Consulting Engineers USA, LLC.
+description: >-
+  CDI Corp (CDI Corporation) is a multidisciplinary engineering and technical
+  resourcing firm founded in Philadelphia in 1950 as Comprehensive Designers,
+  Inc., later listed on the NYSE from 1988 to 2017. After being taken private
+  by AE Industrial Partners in September 2017 for approximately $176M ($8.25
+  per share), AE divested CDI's aerospace business to Belcan (2017), talent and
+  technology services to Artech (2018), and architecture/engineering subsidiary
+  L.R. Kimball to TranSystems (2021), refocusing the remaining CDI Engineering
+  Solutions on integrated engineering, design, project support, procurement,
+  and construction management for the energy and chemicals industries. On
+  January 1, 2025 CDI Engineering Solutions, LLC became a wholly owned
+  subsidiary of Tata Consulting Engineers and now trades as Tata Consulting
+  Engineers USA, LLC, headquartered in Houston, TX with 650+ employees across
+  ten engineering centers. CDI Corp has no public developer APIs; the company
+  delivers engineering services and staff augmentation rather than software
+  products. The tagline carried by the operating business is "Quality Results.
+  Sustainable Solutions. Safely Delivered."
+created: '2026-05-23'
+modified: '2026-05-23'
+position: Consuming
+specificationVersion: '0.19'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
